@@ -1,2 +1,4 @@
 # Lucid
  
+DOWNLOAD ALL THE FILES TO RUN THE GAME.
+IGNORE .gitattributes  AND README.me FILES.
